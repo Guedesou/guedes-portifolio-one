@@ -190,11 +190,33 @@ section {
         padding-right: 18rem;
         .name {
             font-size: 3rem;
-            span { color: var(--color-secondary); }
+            span { 
+                color: var(--color-secondary); 
+            }
+            .profession {
+                display: block;
+                margin-top: 1rem;
+                font-size: 2.5rem;
+            }
         }
         p {
             margin: 1.5rem 0;
             line-height: 2rem;
+            strong {
+                color: var(--color-secondary);
+                font-size: 1.2rem;
+            }
+        }
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .right-header {
+        .name {
+            font-size: 2rem !important;
+            .profession {
+                font-size: 1.8rem;
+            }
         }
     }
 }
