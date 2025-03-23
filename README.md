@@ -73,7 +73,7 @@ Explorando novas tecnologias e desenvolvendo soluções de software.
 
 ### 📫 Como me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-guedes-teixeira/)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guedesbr/)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sradtsor@gmail.com)
 [![Medium](https://img.shields.io/badge/-MEDIUM-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@guedesou)
 
