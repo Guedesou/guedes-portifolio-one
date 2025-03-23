@@ -7,9 +7,9 @@
 
 <p>
 
-Trabalhando como **Suporte Técnico** na empresa **APTO Solutions**<br/>
+Trabalhando como **Suporte Técnico** e buscando **novas oportunidades**<br/>
 
-Estudando na **Coursera/Google** e **Oracle Cloud Infrastructure**<br/>
+Estudando na **Coursera/Google** e **Oracle- Cloud Infrastructure**<br/>
 
 Explorando novas tecnologias e desenvolvendo soluções de software.
 
