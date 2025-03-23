@@ -22,7 +22,7 @@
 }
 
 .light-mode {
-  --color-primary: #ffffff;
+  --color-primary: #dbe1e8;
   --color-secondary: #1596d1;
   --color-white: #fcaf0a;
   --color-black: #000;
@@ -960,5 +960,3 @@ section {
     font-size: 4rem;
   }
 }
-
-/*# sourceMappingURL=styles.css.map */
